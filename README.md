@@ -8,7 +8,7 @@
 
 #### The editor wants to run a series of feature stories about the health risks facing particular demographics. She's counting on you to sniff out the first story idea by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
-#### The data set included with the assignment is based on 2014 ACS 1-year estimates: [dataset](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+#### The data set included with the assignment is based on 2014 ACS 1-year estimates: [dataset](https://github.com/giovannahayes/D3-challenge/tree/main/D3_data_journalism/StarterCode/assets/data). The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 ## Required and Bonus Task
 
