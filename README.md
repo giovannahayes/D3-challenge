@@ -1,6 +1,6 @@
 # D3-challenge
 # D3 Homework - Data Journalism and D3
-![Image of NEWS](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of NEWS](https://github.com/giovannahayes/D3-challenge/blob/main/D3_data_journalism/Images/news.gif)
 
 ## Background
 
@@ -21,4 +21,4 @@
 * Create and situate your axes and labels to the left and bottom of the chart.
 * Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin 
 
-![Image of GIF](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of GIF](https://github.com/giovannahayes/D3-challenge/blob/main/D3_data_journalism/Images/animated_scatter_tool_tips.gif)
